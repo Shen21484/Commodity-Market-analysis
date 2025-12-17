@@ -11,7 +11,7 @@ Despite the Price Benchmark soaring to a record high of 1240 RMB/tonne in 2022, 
 
 This phenomenon highlights the sector’s extreme rigid and low price sensitivity. Unlike other industries, power generation is an essential public utility. 
 Therefore, power plants are forced to prioritize energy security over cost control, maintaining purchases even when prices are exorbitant.
-<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/5af5bdfa-213d-40b2-865a-5fb9f7a7a129" />
+<img width="954" height="554" alt="image" src="https://github.com/user-attachments/assets/5af5bdfa-213d-40b2-865a-5fb9f7a7a129" />
 Production capacity has plateaued, while demand remains robust.
 
 In the short term (2022): Despite a surplus, prices escalated sharply due to capacity constraints and import disruptions.
